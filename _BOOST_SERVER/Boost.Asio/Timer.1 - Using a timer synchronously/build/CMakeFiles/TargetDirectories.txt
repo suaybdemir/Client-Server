@@ -1,0 +1,3 @@
+/home/ubuntu/Documents/Client-Server/_BOOST_SERVER/Boost.Asio/example1/build/CMakeFiles/main.dir
+/home/ubuntu/Documents/Client-Server/_BOOST_SERVER/Boost.Asio/example1/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Documents/Client-Server/_BOOST_SERVER/Boost.Asio/example1/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/ubuntu/Documents/Client-Server/_BOOST_SERVER/build/CMakeFiles/MyProject.dir
+/home/ubuntu/Documents/Client-Server/_BOOST_SERVER/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Documents/Client-Server/_BOOST_SERVER/build/CMakeFiles/rebuild_cache.dir
