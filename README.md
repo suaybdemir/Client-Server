@@ -2,7 +2,7 @@
 
 ## _STD_
 ```
-  Networking implementations on this folder by using standard library of C++
+  Networking implementations in this folder by using standard library of C++
 ```
 ## _BOOST_
 ```
