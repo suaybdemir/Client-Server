@@ -1,10 +1,10 @@
-# Client-Server
+# Networking
 
-## _STD
+## _STD_
 ```
   Networking implementations on this folder by using standard library of C++
 ```
-## _BOOST
+## _BOOST_
 ```
 Boost.Asio:  Boost.Asio supports a variety of network protocols, including ICMP, TCP, and UDP, and it can manage other resources such as serial ports, file descriptors, and even regular files.
 
